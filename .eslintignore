@@ -1,0 +1,8 @@
+# exclude document
+/docs
+
+# exclude production
+/dist
+/build
+/example
+/karma.conf.js
