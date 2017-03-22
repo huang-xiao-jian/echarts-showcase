@@ -6,7 +6,8 @@
     "angular": "^1.6.1",
     "angular-ui-router": "^1.0.0-beta.3",
     "bootstrap": "^3.3.7",
-    "echarts": "^3.3.2"
+    "echarts": "^3.3.2",
+    "echarts-ng": "next"
   },
   "devDependencies": {
     "babel-preset-es2015-bk": "^1.4.0",
